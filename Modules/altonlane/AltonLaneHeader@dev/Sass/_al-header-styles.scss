@@ -159,6 +159,12 @@
 
 }
 
+.open {
+  .header-menu-level-container, .header-profile-menu-myaccount-container {
+    height:auto;
+  }
+}
+
 .header-menu-level-container {
   background-color: transparent;
   -webkit-box-shadow: none;
